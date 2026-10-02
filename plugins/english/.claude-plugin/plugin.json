@@ -1,6 +1,6 @@
 {
   "name": "english",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Invisible English layer for Claude Code: work in English, get Persian replies, and an occasional one-line grammar fix. Recurring mistakes are reviewed on demand with /english:review.",
   "author": { "name": "Armin Mahboobifar" }
 }
