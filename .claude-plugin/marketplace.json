@@ -1,0 +1,11 @@
+{
+  "name": "enpr",
+  "owner": { "name": "Armin Mahboobifar" },
+  "plugins": [
+    {
+      "name": "english",
+      "source": "./plugins/english",
+      "description": "Invisible English layer: English prompts, Persian replies, minimal high-value grammar feedback."
+    }
+  ]
+}
